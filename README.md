@@ -2,7 +2,7 @@
 
 ![Texto alternativo](https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif)
 
-🖐️ Hi! we're Thais, Igor, Belen, Azalfa and Nay
+<h1>🖐️ Hi! we're Thais, Igor, Belen, Azalfa and Nay</h1>
 
 <h2>🚀ABOUT </h2>
 
@@ -36,4 +36,4 @@ This foundational work serves as a strong starting point for deeper exploration 
     Finally, we consolidated the insights gained from the previous steps into a cohesive code sheet.
     This document serves as a reference for variables, functions, methods, and proper syntax, ensuring a clear and comprehensive summary of our progress.</p>
 
-✈️ Welcome to our journey.
+<h3>✈️ Welcome to our journey.</h3>
