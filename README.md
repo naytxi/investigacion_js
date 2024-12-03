@@ -37,3 +37,21 @@ This foundational work serves as a strong starting point for deeper exploration 
     This document serves as a reference for variables, functions, methods, and proper syntax, ensuring a clear and comprehensive summary of our progress.</p>
 
 <h3>✈️ Welcome to our journey.</h3>
+
+<h2>🧑‍🤝‍🧑THE TEAM</h2>
+
+**Scrum Master**
+[Belen]()
+
+**Product Owner**
+[Igor]()
+
+**First Programmer**
+[Thais](https://github.com/intxaurtietadev)
+
+**Second Programmer**
+[Azalfa]()
+
+**Third Programmer**
+[Nay](https://github.com/naytxi)
+
